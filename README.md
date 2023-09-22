@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [my personal website](https://justinsillou.github.io/)
 
+![](https://raw.githubusercontent.com/justinsillou/justinsillou.github.io/master/gif.gif)
+
