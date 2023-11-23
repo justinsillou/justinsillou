@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/justinsillou/justinsillou.github.io/master/gif.gif)
 
+<!-- 
+![LeetCode Stats](https://leetcode.card.workers.dev/justinsillou?theme=default&font=baloo&extension=null)
+-->
