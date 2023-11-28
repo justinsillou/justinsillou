@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🌿 I'm currently working on the project "Local & Toi" : [here](https://forms.gle/G9TjPHdAoMaBM7uz9)
+- Almost 2024 and many projects in progress!
+- ✍️ Writing a blog
+- 🖌️ Redesign of the personal site (finally)
+- 📹 Some videos (other than demos) on Youtube
 
 ![](https://raw.githubusercontent.com/justinsillou/justinsillou.github.io/master/gif.gif)
 
