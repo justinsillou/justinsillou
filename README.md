@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Almost 2024 and many projects in progress!
 - ✍️ Writing a blog
 - 🖌️ Redesign of the personal site (finally)
-- 📹 Some videos (other than demos) on Youtube ![here](https://www.youtube.com/channel/UCthtWlmreVMa2u0uMl87DJg)
+- 📹 Some videos (other than demos) on Youtube : [here](https://www.youtube.com/channel/UCthtWlmreVMa2u0uMl87DJg)
 
 ![](https://raw.githubusercontent.com/justinsillou/justinsillou.github.io/master/gif.gif)
 
