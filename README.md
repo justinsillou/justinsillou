@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌿 I'm currently working on the project "Local & Toi" : [here](https://forms.gle/G9TjPHdAoMaBM7uz9)
+- 🌿 I'm currently working on the project "Local & Toi" : [here](https://youtu.be/clvelmQigjA)
 - ⚡ Almost 2024 and many projects in progress!
 - ✍️ Writing a blog
 - 🖌️ Redesign of the personal site (finally)
