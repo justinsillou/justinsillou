@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌿 I'm currently working on the project "Local & Toi" : [here](https://youtu.be/clvelmQigjA)
-- ⚡ I'm starting 2024 and many projects in progress!
-- ✍️ Writing a blog
-- 🖌️ Redesign of the personal site (finally)
-- 📹 Some videos (other than demos) on Youtube : [here](https://www.youtube.com/channel/UCthtWlmreVMa2u0uMl87DJg)
+- 🌿 Embarking on the rollercoaster ride of developing a new React Native App. I've got my seatbelt fastened and a snack for the journey—advice! Feel free to toss some my way!
+- 🌐 Take a detour to my latest creation, "Local & Toi": [Enjoy the show](https://youtu.be/clvelmQigjA)
+- ⚡ Buckle up for 2024! I've got more projects cooking than a chef in a food fight!
+- ✍️ Currently playing mad scientist with words for a blog.
+- 🖌️ Sprucing up my personal site because apparently, it's time for a glow-up!
+- 📹 Lights, camera, action! Check out some non-demo chaos on my [YouTube channel](https://www.youtube.com/channel/UCthtWlmreVMa2u0uMl87DJg)
 
 ![](https://raw.githubusercontent.com/justinsillou/justinsillou.github.io/master/gif.gif)
 
