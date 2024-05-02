@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🖌️ Sprucing up my personal site because apparently, it's time for a glow-up!
 - 📹 Lights, camera, action! Check out some non-demo chaos on my [YouTube channel](https://www.youtube.com/channel/UCthtWlmreVMa2u0uMl87DJg)
 
-![](https://raw.githubusercontent.com/justinsillou/justinsillou.github.io/master/gif.gif)
+![](https://raw.githubusercontent.com/justinsillou/justinsillou.github.io/_old/gif.gif)
 
 <!-- 
 ![LeetCode Stats](https://leetcode.card.workers.dev/justinsillou?theme=default&font=baloo&extension=null)
